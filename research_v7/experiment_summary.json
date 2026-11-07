@@ -1,0 +1,90 @@
+{
+  "training_projects": 76,
+  "training_checkpoints": 915,
+  "models_ranked_by_train_oof": [
+    {
+      "method": "EVM",
+      "project_macro_MAPE_pct": 6.845067022324215,
+      "median_project_MAPE_pct": 3.543517983177825,
+      "sd_project_MAPE_pct": 9.322472632661103
+    },
+    {
+      "method": "Ridge_residual_shrink25_early",
+      "project_macro_MAPE_pct": 6.9997922153660745,
+      "median_project_MAPE_pct": 3.300059721355925,
+      "sd_project_MAPE_pct": 9.506525784621806
+    },
+    {
+      "method": "RF_residual_shrink25_early",
+      "project_macro_MAPE_pct": 7.1801685684194005,
+      "median_project_MAPE_pct": 3.3860753895485094,
+      "sd_project_MAPE_pct": 9.92594306742989
+    },
+    {
+      "method": "Ridge_residual_shrink25",
+      "project_macro_MAPE_pct": 7.242954742104027,
+      "median_project_MAPE_pct": 3.553821127586946,
+      "sd_project_MAPE_pct": 9.874683440993637
+    },
+    {
+      "method": "RF_residual_shrink25",
+      "project_macro_MAPE_pct": 7.574505265991386,
+      "median_project_MAPE_pct": 3.1266395211764686,
+      "sd_project_MAPE_pct": 10.842821111757427
+    },
+    {
+      "method": "Ridge_residual_shrink50",
+      "project_macro_MAPE_pct": 8.024986246134702,
+      "median_project_MAPE_pct": 3.3454642311999936,
+      "sd_project_MAPE_pct": 11.533650111251402
+    },
+    {
+      "method": "RF_residual_shrink50",
+      "project_macro_MAPE_pct": 8.549168209354544,
+      "median_project_MAPE_pct": 3.170484178060648,
+      "sd_project_MAPE_pct": 13.988420668367105
+    },
+    {
+      "method": "Ridge_residual",
+      "project_macro_MAPE_pct": 10.235648793548686,
+      "median_project_MAPE_pct": 4.496962046232326,
+      "sd_project_MAPE_pct": 16.644179195369325
+    },
+    {
+      "method": "RF_full",
+      "project_macro_MAPE_pct": 10.584536679655622,
+      "median_project_MAPE_pct": 3.944639003878971,
+      "sd_project_MAPE_pct": 16.635789721321608
+    },
+    {
+      "method": "Ridge_full",
+      "project_macro_MAPE_pct": 11.105022257434479,
+      "median_project_MAPE_pct": 4.48697344185496,
+      "sd_project_MAPE_pct": 18.021236725108437
+    },
+    {
+      "method": "RF_residual",
+      "project_macro_MAPE_pct": 11.105118386719411,
+      "median_project_MAPE_pct": 3.4286368369728253,
+      "sd_project_MAPE_pct": 22.19560736802832
+    },
+    {
+      "method": "BAC",
+      "project_macro_MAPE_pct": 13.956662413508624,
+      "median_project_MAPE_pct": 4.91228455608928,
+      "sd_project_MAPE_pct": 23.927253548776893
+    }
+  ],
+  "best_non_evm": "Ridge_residual_shrink25_early",
+  "difference_EVM_minus_best_model_project_MAPE_pp": -0.1547251930418599,
+  "bootstrap_difference_95ci_pp": [
+    -0.7097896925151773,
+    0.24118891808277035
+  ],
+  "completion_evidence_counts_train": {
+    "proxy_only_review_needed": 68,
+    "explicit_Closure_label": 8
+  },
+  "known_previous_holdout_projects_excluded": 26,
+  "status": "training-only exploratory grouped out-of-fold; not independent final test"
+}

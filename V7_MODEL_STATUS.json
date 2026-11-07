@@ -1,0 +1,8 @@
+{
+  "model_validation": "training-only GroupKFold 5 folds; previous holdout excluded",
+  "EVM_project_macro_MAPE_percent": 6.845067,
+  "best_experimental_ML_assisted_MAPE_percent": 6.999792,
+  "model_better_than_EVM": false,
+  "input_feature_parity_checked": true,
+  "not_confirmed_external_test": true
+}

@@ -1,0 +1,17 @@
+{
+  "training_projects": 76,
+  "training_checkpoints": 902,
+  "previous_holdout_projects_excluded": 26,
+  "best_non_EVM": "Ridge_ETC_residual_stage20",
+  "EVM_minus_best_ML_macro_MAPE_pp": 0.021212111635322797,
+  "bootstrap_CI95_pp": [
+    -0.3318134255616759,
+    0.31089102712416083
+  ],
+  "evidence_counts_projects": {
+    "proxy_only_review_needed": 68,
+    "explicit_Closure_label": 8
+  },
+  "winner": "Ridge_ETC_residual_stage20",
+  "test_status": "exploratory grouped OOF on 76 projects; 26 prior holdout projects not used"
+}

@@ -1,0 +1,17 @@
+{
+  "mean": 1199.049,
+  "p50": 1194.013,
+  "p80": 1245.7,
+  "p90": 1274.517,
+  "risk_loss_mean": 99.049,
+  "reserve_required_p80": 145.7,
+  "reserve_gap_p80": 70.7,
+  "prob_exceeds_baseline_plus_reserve": 0.633,
+  "project": "ABC-ROAD-001",
+  "risk_exclusive_baseline_million_KZT": 1100,
+  "remaining_reserve_million_KZT": 75,
+  "runs": 20000,
+  "seed": 2026,
+  "assumption": "12 independent risk events with triangular conditional severity; may not reflect reality; standalone scenario, NOT combined with ML EAC",
+  "units": "million KZT"
+}

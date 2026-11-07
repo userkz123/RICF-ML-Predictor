@@ -1,0 +1,13 @@
+project_id,checkpoint,evm_eac_million_KZT,ml_eac_million_KZT,risk_accounting_mode,automatic_addition_allowed,interpretation
+ABC-ENERGY-002,1,1810.6995884773664,1802.1307177538936,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-ENERGY-002,2,1798.3651226158038,1792.1373053550706,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-ENERGY-002,3,1786.1975642760483,1783.3072659614584,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-LOGISTICS-004,1,1300.3901170351105,1296.0378759344562,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-LOGISTICS-004,2,1291.989664082687,1289.7143086148149,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-LOGISTICS-004,3,1283.697047496791,1282.693007459346,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-ROAD-001,1,1128.349788434415,1120.782304627415,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-ROAD-001,2,1120.4481792717088,1114.687572283084,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-ROAD-001,3,1112.656467315716,1109.9272581806451,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-WATER-003,1,833.1108144192256,828.1621784024023,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-WATER-003,2,827.5862068965517,824.3598971596937,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.
+ABC-WATER-003,3,822.1343873517785,820.6154677849969,RISK_INCLUSION_UNVERIFIED,False,ML/EVM output is displayed separately; risk-only simulated cost uses independently defined risk-exclusive baseline.

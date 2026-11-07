@@ -1,0 +1,103 @@
+project_id,sector,bac,planned_duration,n_activities,final_ac,final_ratio,closure_name,completion_evidence,research_split
+C2011-05,IT,180485.0,43.0,21.0,180485.270056152,1.0000014962803114,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2011-07,IT,180759.0,389.0,49.0,191065.059996338,1.0570154736214408,Actual Schedule,proxy_only_review_needed,train_76
+C2011-10,Construction (residential building),484398.0,195.0,32.0,494947.71251595,1.0217790174937758,26/06/2012 17:00,proxy_only_review_needed,train_76
+C2011-12,Construction (commercial building),3027133.0,442.0,49.0,3102395.90605224,1.024862768187668,Finish,proxy_only_review_needed,train_76
+C2011-13,Construction (industrial),21369836.0,525.0,134.0,26077764.7403033,1.220307200312782,120,proxy_only_review_needed,previously_seen_dev_26
+C2012-13,Construction (civil),336410.0,125.0,75.0,350511.309412956,1.0419170340149104,Actual Schedule,proxy_only_review_needed,train_76
+C2012-15,Education,185472.0,32.0,134.0,185113.099994659,0.998064936996738,19/12/2012 20:00,proxy_only_review_needed,train_76
+C2012-17,Construction (residential building),241015.0,145.0,33.0,314856.143962145,1.3063757191965024,13/12/2013 17:00,proxy_only_review_needed,train_76
+C2013-01,Construction (civil),1069533.0,152.0,42.0,1314584.5814743,1.2291201687786164,Actual Schedule,proxy_only_review_needed,train_76
+C2013-02,Construction (civil),1236604.0,403.0,181.0,1146444.38085938,0.9270909530127508,Actual Schedule,proxy_only_review_needed,train_76
+C2013-03,Construction (institutional building),15440865.0,425.0,55.0,16338027.197464,1.0581031048107732,"31/10, 2007",proxy_only_review_needed,previously_seen_dev_26
+C2013-04,Construction (institutional building),2113684.0,333.0,252.0,2512524.0,1.188694241901817,Actual Schedule,proxy_only_review_needed,train_76
+C2013-05,Engineering,874554.0,521.0,28.0,874554.283691406,1.000000324384093,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2013-06,Construction (institutional building),19429808.0,352.0,276.0,21546846.1818771,1.1089582656646475,"31/05, 2010",proxy_only_review_needed,train_76
+C2013-07,Construction (residential building),180476.0,170.0,46.0,175030.650544882,0.9698278471646202,"28/02, 2007",proxy_only_review_needed,train_76
+C2013-08,Construction (residential building),501030.0,216.0,42.0,576624.051826477,1.1508772964223242,24/08/2012,proxy_only_review_needed,train_76
+C2013-09,Construction (commercial building),1537398.0,291.0,71.0,1696971.78688812,1.103794714763594,"04/06, 2009",proxy_only_review_needed,train_76
+C2013-10,Construction (civil),11421890.0,786.0,197.0,15218926.3788986,1.3324350329847865,"31/03, 2005",proxy_only_review_needed,train_76
+C2013-12,Construction (institutional building),818440.0,115.0,27.0,879853.171112061,1.0750368641709362,"30/06, 2011",proxy_only_review_needed,previously_seen_dev_26
+C2013-13,Construction (commercial building),1118497.0,236.0,11.0,955929.224298,0.8546551526718444,periode 9,proxy_only_review_needed,train_76
+C2013-14,Construction (commercial building),85848.0,80.0,9.0,75468.2986779213,0.879092100898347,periode 2,proxy_only_review_needed,train_76
+C2014-01,Construction (residential building),38697824.0,474.0,52.0,39777643.3007812,1.027903876475876,Actual Schedule,proxy_only_review_needed,train_76
+C2014-02,Engineering,191493.0,124.0,23.0,190266.499023438,0.993595061038461,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2014-03,Education,43170.0,229.0,112.0,83712.15,1.9391278665740093,Actual Schedule,proxy_only_review_needed,train_76
+C2014-04,Construction (industrial),62385600.0,522.0,24.0,65526930.0419922,1.0503534476224032,Actual Schedule,proxy_only_review_needed,train_76
+C2014-05,Construction (residential building),532410.0,228.0,26.0,591410.526977539,1.110817841470932,Actual Schedule,proxy_only_review_needed,train_76
+C2014-06,Construction (residential building),3486376.0,547.0,29.0,3599114.11156845,1.0323367621760964,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2014-07,Construction (residential building),1102537.0,352.0,25.0,1289696.78277588,1.1697537432085092,Actual Schedule,proxy_only_review_needed,train_76
+C2014-08,Construction (residential building),1992222.0,233.0,42.0,2380299.85925293,1.1947964931884751,Actual Schedule,proxy_only_review_needed,train_76
+C2015-01,Construction (institutional building),612769.0,131.0,27.0,646473.646022796,1.0550038367195405,Actual Schedule,proxy_only_review_needed,train_76
+C2015-02,Construction (civil),1121317.0,417.0,216.0,967988.790537551,0.8632606038591684,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2015-04,Construction (residential building),2750938.0,160.0,56.0,2590796.72607422,0.9417866655207132,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2015-05,Construction (residential building),2524765.0,120.0,64.0,2563675.86425781,1.015411677624575,Actual Schedule,proxy_only_review_needed,train_76
+C2015-06,Construction (residential building),143673.0,260.0,184.0,186107.000299454,1.2953512511011394,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2015-07,Construction (industrial),5999600.0,297.0,138.0,5414544.0,0.9024841656110408,Actual Schedule,proxy_only_review_needed,train_76
+C2015-08,Construction (commercial building),467297.0,191.0,186.0,461900.16506958,0.9884509531830508,Actual Schedule,proxy_only_review_needed,train_76
+C2015-09,Construction (civil),1457424.0,354.0,348.0,2145682.259131,1.4722429842866591,Actual Schedule,proxy_only_review_needed,train_76
+C2015-10,IT,18990.0,85.0,20.0,8010.0,0.4218009478672986,Closure,explicit_Closure_label,train_76
+C2015-11,IT,14400.0,55.0,13.0,9105.0,0.6322916666666667,Closure,explicit_Closure_label,train_76
+C2015-12,IT,132570.0,184.0,42.0,58410.0,0.4405974202308214,Closure,explicit_Closure_label,train_76
+C2015-13,IT,12735.0,117.0,22.0,9990.0,0.784452296819788,Closure,explicit_Closure_label,previously_seen_dev_26
+C2015-16,IT,64620.0,270.0,30.0,64125.0,0.9923398328690808,Closure,explicit_Closure_label,train_76
+C2015-17,IT,281430.0,209.0,91.0,281070.0,0.9987208186760472,Closure,explicit_Closure_label,previously_seen_dev_26
+C2015-18,IT,39450.0,128.0,21.0,25380.0,0.6433460076045627,Closure,explicit_Closure_label,train_76
+C2015-20,IT,12645.0,171.0,11.0,11100.0,0.8778173190984578,Closure,explicit_Closure_label,previously_seen_dev_26
+C2015-21,IT,4020.0,37.0,17.0,3240.0,0.8059701492537313,Closure,explicit_Closure_label,previously_seen_dev_26
+C2015-25,Event Management,1210.0,14.0,26.0,1780.0,1.4710743801652892,Closure,explicit_Closure_label,train_76
+C2015-26,IT,458112.0,149.0,220.0,512546.14605017,1.1188227901695873,Closure,explicit_Closure_label,previously_seen_dev_26
+C2015-27,Construction (civil),22704.0,68.0,18.0,25313.1191711426,1.1149189205048713,Closure,explicit_Closure_label,train_76
+C2015-28,IT,219275.0,201.0,27.0,382475.0,1.7442708927146278,Closure,explicit_Closure_label,train_76
+C2015-29,Construction (institutional building),1874497.0,284.0,204.0,1887087.25276184,1.0067166033137636,"16/09, 2011",proxy_only_review_needed,train_76
+C2015-30,Construction (residential building),440941.0,244.0,40.0,440940.89050293,0.9999997516741016,Actual Schedule,proxy_only_review_needed,train_76
+C2015-31,Construction (residential building),1310723.0,271.0,29.0,1282185.97973264,0.9782280311954852,Actual Schedule,proxy_only_review_needed,train_76
+C2015-33,Construction (civil),214418.0,50.0,12.0,224789.670677185,1.048371268630362,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2015-34,Construction (civil),511326.0,120.0,13.0,440394.159631348,0.8612786356088835,Actual Schedule,proxy_only_review_needed,train_76
+C2015-35,Construction (residential building),14956314.0,850.0,13.0,16068878.2993164,1.074387599733223,Actual Schedule,proxy_only_review_needed,train_76
+C2016-01,Construction (civil),671384.0,225.0,31.0,703703.498779297,1.0481386192987874,Actual Schedule,proxy_only_review_needed,train_76
+C2016-02,Construction (civil),962182.0,229.0,27.0,972341.558410645,1.0105588739039444,Actual Schedule,proxy_only_review_needed,train_76
+C2016-03,Construction (civil),926888.0,203.0,27.0,910728.010864258,0.9825653270559744,Actual Schedule,proxy_only_review_needed,train_76
+C2016-04,Construction (civil),906254.0,248.0,29.0,906253.8671875,0.9999998534489228,Actual Schedule,proxy_only_review_needed,train_76
+C2016-05,Construction (civil),832497.0,195.0,34.0,832497.460449219,1.000000553094148,Actual Schedule,proxy_only_review_needed,train_76
+C2016-06,Construction (institutional building),4331260.0,252.0,98.0,4331260.48588181,1.0000001121802455,Actual Schedule,proxy_only_review_needed,train_76
+C2016-07,Construction (commercial building),930179.0,224.0,123.0,932757.253173828,1.0027717817471993,Actual Schedule,proxy_only_review_needed,previously_seen_dev_26
+C2016-08,IT,375253.0,725.0,124.0,438741.660275459,1.1691889479243578,T34,proxy_only_review_needed,train_76
+C2016-09,IT,584952.0,195.0,143.0,1425155.96141052,2.4363639433842774,T9,proxy_only_review_needed,train_76
+C2016-10,Engineering,14362625.0,360.0,24.0,14466100.0,1.007204462972472,8/10/2016 5:00 PM,proxy_only_review_needed,train_76
+C2016-11,Construction (residential building),162472.0,241.0,64.0,163189.0,1.0044130680978876,Tracking Period 5,proxy_only_review_needed,train_76
+C2016-12,Construction (residential building),222858.0,291.0,69.0,226285.0,1.0153775049583142,Tracking Period 5,proxy_only_review_needed,previously_seen_dev_26
+C2016-13,Construction (residential building),367952.0,306.0,62.0,379300.0,1.030840979258164,Tracking Period 5,proxy_only_review_needed,previously_seen_dev_26
+C2016-14,Construction (residential building),218366.0,321.0,58.0,222021.780029297,1.016741525829557,Tracking Period 5,proxy_only_review_needed,train_76
+C2016-15,Construction (residential building),95694.0,126.0,13.0,100763.0,1.052970928166865,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-16,Construction (residential building),54578.0,90.0,24.0,64526.760131836,1.1822851722642091,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-17,Construction (residential building),54703.0,86.0,29.0,64580.1697998047,1.1805599290679616,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-18,Construction (residential building),51116.0,91.0,30.0,60829.51953125,1.1900289445819312,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-19,Construction (residential building),51303.0,91.0,30.0,53351.3801269532,1.0399271022543164,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-20,Construction (residential building),52021.0,91.0,30.0,53783.2801513672,1.033876322088526,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-21,Construction (residential building),54324.0,101.0,29.0,54996.2200317383,1.012374273465472,Tracking Period 4,proxy_only_review_needed,previously_seen_dev_26
+C2016-22,Construction (residential building),56969.0,101.0,29.0,57822.3997802735,1.014980073026971,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-23,Construction (residential building),56183.0,101.0,29.0,56645.7098388672,1.0082357623990743,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-24,Construction (residential building),52263.0,101.0,29.0,53176.8297729493,1.01748521464419,Tracking Period 4,proxy_only_review_needed,previously_seen_dev_26
+C2016-25,Construction (residential building),54580.0,91.0,29.0,56748.3294067383,1.0397275450116947,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-26,Construction (residential building),51286.0,91.0,29.0,53319.2395629883,1.039645118804124,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-27,Construction (residential building),813663.0,78.0,21.0,879701.060546875,1.0811614397445564,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-28,Construction (residential building),569178.0,71.0,20.0,586086.849975586,1.0297074904082484,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-29,Construction (residential building),1797874.0,129.0,24.0,1860330.6171875,1.0347391514574993,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-30,Construction (residential building),1319736.0,85.0,23.0,1353361.29101562,1.0254788010750788,Tracking Period 4,proxy_only_review_needed,previously_seen_dev_26
+C2016-31,Construction (residential building),488936.0,105.0,23.0,498473.0,1.019505620367492,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-32,Construction (residential building),477381.0,89.0,22.0,496991.0,1.0410783001418151,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-33,Construction (residential building),377282.0,116.0,24.0,394829.0,1.046508977369713,Tracking Period 4,proxy_only_review_needed,train_76
+C2016-34,Construction (residential building),362476.0,83.0,23.0,383871.0,1.0590245974905923,Tracking Period 3,proxy_only_review_needed,train_76
+C2016-42,Mobility,1703350.0,350.0,39.0,1715032.99991739,1.0068588369491824,13/03/2018 17:00,proxy_only_review_needed,previously_seen_dev_26
+C2018-08,Mobility,5611571.0,393.0,23.0,5694790.99,1.014830069868135,9/04/2021 17:00,proxy_only_review_needed,train_76
+C2018-10,Construction (Civil),115115.23,100.0,43.0,115115.238876343,1.0000000771083288,Week 24,proxy_only_review_needed,train_76
+C2018-13,Event management,58900.0,132.0,31.0,83920.0,1.4247877758913412,26/02/2019 17:00,proxy_only_review_needed,train_76
+C2019-01,Construction (residential building),1292979.0,533.0,86.0,1315819.86,1.0176652985083283,TP10,proxy_only_review_needed,train_76
+C2019-02,Construction (residential building),734602.11,352.0,19.0,748555.7982,1.018994892622892,TP10,proxy_only_review_needed,train_76
+C2019-03,Construction (civil),967878.0,413.0,18.0,1270875.82,1.3130537319786173,TP22,proxy_only_review_needed,train_76
+C2019-04,Construction (civil),4318950.0,373.0,38.0,4232553.41,0.9799959272508364,TP24,proxy_only_review_needed,previously_seen_dev_26
+C2019-05,Engineering,1456000.0,510.0,18.0,1476290.0,1.0139354395604396,TP10,proxy_only_review_needed,previously_seen_dev_26
+C2019-06,Engineering,1512000.0,480.0,26.0,1534060.0,1.014589947089947,TP11,proxy_only_review_needed,train_76
+C2019-07,Engineering,107500.0,150.0,9.0,116800.0,1.0865116279069766,TP10,proxy_only_review_needed,previously_seen_dev_26
+C2019-08,Engineering,114700.0,115.0,8.0,128200.0,1.1176983435047951,TP9,proxy_only_review_needed,train_76

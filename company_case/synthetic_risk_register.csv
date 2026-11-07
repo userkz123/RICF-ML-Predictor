@@ -1,0 +1,13 @@
+risk_id,risk,category,probability,min_loss,most_likely_loss,max_loss,cost_unit,data_type
+R01,Materials inflation,Market,0.45,12,35,80,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R02,Supplier disruption,Supply chain,0.25,8,27,65,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R03,Geotechnical surprises,Technical,0.18,15,40,100,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R04,Permit delays,ESG / regulatory,0.22,7,25,70,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R05,Community objections,ESG / social,0.12,5,20,55,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R06,Environmental remediation,ESG / environmental,0.15,10,35,95,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R07,Labor shortage,Resources,0.3,8,23,58,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R08,Equipment failure,Technical,0.28,5,18,45,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R09,Contractor rework,Quality,0.24,6,22,60,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R10,Exchange-rate shock,Market,0.32,8,30,85,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R11,Safety stoppage,ESG / safety,0.1,4,16,48,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED
+R12,Unexpected utilities relocation,Technical,0.16,10,32,78,million_KZT,SYNTHETIC_ASSUMPTIONS_NOT_OBSERVED

@@ -1,0 +1,21 @@
+from pathlib import Path
+import numpy as np, pandas as pd, streamlit as st
+ROOT=Path(__file__).resolve().parent.parent
+st.title("RICF-ML | Company portfolio")
+st.warning("All four company projects and risk assumptions are SYNTHETIC. This demonstrates decision mechanics; it is NOT external ML validation or evidence that ML outperforms EVM.")
+st.markdown("### ML versus EVM on illustrative checkpoints")
+pred=pd.read_csv(ROOT/'portfolio_illustrative_predictions.csv')
+project=st.selectbox('Project',sorted(pred.project_id.unique()))
+st.dataframe(pred[pred.project_id==project][['checkpoint','progress','EVM_EAC','experimental_EAC']],hide_index=True,use_container_width=True)
+st.caption('The model was trained on DSLIB development data. Synthetic project characteristics may be outside its training distribution; no true company final cost is available for testing accuracy.')
+st.markdown("### Independent risk-reserve simulation")
+st.caption('The forecast engine and risk engine are intentionally not added together because historical ML predictions may already contain risk effects.')
+pol=pd.read_csv(ROOT/'portfolio_policy_comparison.csv')
+part=pol[pol.project_id==project].copy()
+st.dataframe(part[['policy','allocated_reserve_million_KZT','probability_reserve_insufficient','expected_shortfall_million_KZT','mean_unused_reserve_million_KZT']],hide_index=True,use_container_width=True)
+st.bar_chart(part.set_index('policy')[['allocated_reserve_million_KZT','expected_shortfall_million_KZT']])
+st.markdown('### Portfolio-level comparison')
+agg=pol.groupby('policy',as_index=False).agg(total_reserve=('allocated_reserve_million_KZT','sum'),expected_total_shortfall=('expected_shortfall_million_KZT','sum'),expected_total_unused_reserve=('mean_unused_reserve_million_KZT','sum'),mean_project_insufficiency=('probability_reserve_insufficient','mean'))
+st.dataframe(agg,hide_index=True,use_container_width=True)
+st.caption('Policies compared on the SAME generated loss scenarios. P80/P90 are calculated from the assumed distribution itself, not validated probabilities for real projects. Risks are independent; company-level risk correlation is not modeled.')
+st.download_button('Download policy comparison',pol.to_csv(index=False),file_name='synthetic_portfolio_policies.csv')

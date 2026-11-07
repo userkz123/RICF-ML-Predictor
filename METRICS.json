@@ -1,0 +1,31 @@
+{
+  "train_projects": 76,
+  "previously_seen_dev_projects": 26,
+  "train_checkpoints": 915,
+  "dev_checkpoints": 343,
+  "all_projects": 102,
+  "selected_ml_by_train_only_cv": "Random Forest",
+  "train_group_cv_macro_mape_percent": {
+    "Ridge": 12.464551215997972,
+    "Random Forest": 10.438067396244543,
+    "Histogram Gradient Boosting": 10.985073291455643,
+    "EVM": 6.813125380969264,
+    "BAC": 13.95666241350862
+  },
+  "previously_seen_dev_project_macro_mape_percent": {
+    "ML": 7.098606831162433,
+    "EVM": 7.933436398549384,
+    "BAC": 7.008605951460543
+  },
+  "completion_evidence_counts": {
+    "proxy_only_review_needed": 89,
+    "explicit_Closure_label": 13
+  },
+  "limitations": [
+    "89 project endpoints based on inferred completion proxy, not independent proof of closure",
+    "26-project development set inspected in earlier iterations: NOT a fresh holdout",
+    "No verified risk/ESG/contingency predictors in DSLIB ML training",
+    "ML model may not outperform EVM; show both",
+    "No production or external company validation"
+  ]
+}

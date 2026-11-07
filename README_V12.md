@@ -1,0 +1,1 @@
+RICF-ML v12 adds a decision-aware risk reserve module to the v11 Streamlit app. Run `pip install -r requirements.txt` then `streamlit run app.py`; select page `10 Integrated Decision v12`. See V12_RESEARCH_REPORT.md. All v12 scenario parameters are synthetic.

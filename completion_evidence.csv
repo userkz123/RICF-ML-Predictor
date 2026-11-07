@@ -1,0 +1,103 @@
+project_id,closure_name,checkpoints,final_ratio,completion_evidence
+C2011-05,Actual Schedule,4,1.0000014962803114,proxy_only_review_needed
+C2011-07,Actual Schedule,22,1.0570154736214408,proxy_only_review_needed
+C2011-10,26/06/2012 17:00,40,1.0217790174937758,proxy_only_review_needed
+C2011-12,Finish,6,1.024862768187668,proxy_only_review_needed
+C2011-13,120,118,1.220307200312782,proxy_only_review_needed
+C2012-13,Actual Schedule,27,1.0419170340149104,proxy_only_review_needed
+C2012-15,19/12/2012 20:00,6,0.998064936996738,proxy_only_review_needed
+C2012-17,13/12/2013 17:00,39,1.3063757191965024,proxy_only_review_needed
+C2013-01,Actual Schedule,5,1.2291201687786164,proxy_only_review_needed
+C2013-02,Actual Schedule,16,0.9270909530127508,proxy_only_review_needed
+C2013-03,"31/10, 2007",17,1.0581031048107732,proxy_only_review_needed
+C2013-04,Actual Schedule,10,1.188694241901817,proxy_only_review_needed
+C2013-05,Actual Schedule,28,1.000000324384093,proxy_only_review_needed
+C2013-06,"31/05, 2010",17,1.1089582656646475,proxy_only_review_needed
+C2013-07,"28/02, 2007",10,0.9698278471646202,proxy_only_review_needed
+C2013-08,24/08/2012,11,1.1508772964223242,proxy_only_review_needed
+C2013-09,"04/06, 2009",9,1.103794714763594,proxy_only_review_needed
+C2013-10,"31/03, 2005",29,1.3324350329847865,proxy_only_review_needed
+C2013-12,"30/06, 2011",4,1.0750368641709362,proxy_only_review_needed
+C2013-13,periode 9,8,0.8546551526718444,proxy_only_review_needed
+C2013-14,periode 2,1,0.879092100898347,proxy_only_review_needed
+C2014-01,Actual Schedule,21,1.027903876475876,proxy_only_review_needed
+C2014-02,Actual Schedule,28,0.993595061038461,proxy_only_review_needed
+C2014-03,Actual Schedule,12,1.9391278665740093,proxy_only_review_needed
+C2014-04,Actual Schedule,35,1.0503534476224032,proxy_only_review_needed
+C2014-05,Actual Schedule,12,1.110817841470932,proxy_only_review_needed
+C2014-06,Actual Schedule,18,1.0323367621760964,proxy_only_review_needed
+C2014-07,Actual Schedule,13,1.1697537432085092,proxy_only_review_needed
+C2014-08,Actual Schedule,12,1.1947964931884751,proxy_only_review_needed
+C2015-01,Actual Schedule,8,1.0550038367195405,proxy_only_review_needed
+C2015-02,Actual Schedule,8,0.8632606038591684,proxy_only_review_needed
+C2015-04,Actual Schedule,7,0.9417866655207132,proxy_only_review_needed
+C2015-05,Actual Schedule,4,1.015411677624575,proxy_only_review_needed
+C2015-06,Actual Schedule,9,1.2953512511011394,proxy_only_review_needed
+C2015-07,Actual Schedule,8,0.9024841656110408,proxy_only_review_needed
+C2015-08,Actual Schedule,7,0.9884509531830508,proxy_only_review_needed
+C2015-09,Actual Schedule,8,1.4722429842866591,proxy_only_review_needed
+C2015-10,Closure,2,0.4218009478672986,explicit_Closure_label
+C2015-11,Closure,2,0.6322916666666667,explicit_Closure_label
+C2015-12,Closure,2,0.4405974202308214,explicit_Closure_label
+C2015-13,Closure,3,0.784452296819788,explicit_Closure_label
+C2015-16,Closure,5,0.9923398328690808,explicit_Closure_label
+C2015-17,Closure,4,0.9987208186760472,explicit_Closure_label
+C2015-18,Closure,2,0.6433460076045627,explicit_Closure_label
+C2015-20,Closure,3,0.8778173190984578,explicit_Closure_label
+C2015-21,Closure,1,0.8059701492537313,explicit_Closure_label
+C2015-25,Closure,2,1.4710743801652892,explicit_Closure_label
+C2015-26,Closure,4,1.1188227901695873,explicit_Closure_label
+C2015-27,Closure,5,1.1149189205048713,explicit_Closure_label
+C2015-28,Closure,3,1.7442708927146278,explicit_Closure_label
+C2015-29,"16/09, 2011",7,1.0067166033137636,proxy_only_review_needed
+C2015-30,Actual Schedule,13,0.9999997516741016,proxy_only_review_needed
+C2015-31,Actual Schedule,20,0.9782280311954852,proxy_only_review_needed
+C2015-33,Actual Schedule,4,1.048371268630362,proxy_only_review_needed
+C2015-34,Actual Schedule,6,0.8612786356088835,proxy_only_review_needed
+C2015-35,Actual Schedule,40,1.074387599733223,proxy_only_review_needed
+C2016-01,Actual Schedule,13,1.0481386192987874,proxy_only_review_needed
+C2016-02,Actual Schedule,12,1.0105588739039444,proxy_only_review_needed
+C2016-03,Actual Schedule,10,0.9825653270559744,proxy_only_review_needed
+C2016-04,Actual Schedule,11,0.9999998534489228,proxy_only_review_needed
+C2016-05,Actual Schedule,9,1.000000553094148,proxy_only_review_needed
+C2016-06,Actual Schedule,12,1.0000001121802455,proxy_only_review_needed
+C2016-07,Actual Schedule,10,1.0027717817471993,proxy_only_review_needed
+C2016-08,T34,33,1.1691889479243578,proxy_only_review_needed
+C2016-09,T9,7,2.4363639433842774,proxy_only_review_needed
+C2016-10,8/10/2016 5:00 PM,20,1.007204462972472,proxy_only_review_needed
+C2016-11,Tracking Period 5,4,1.0044130680978876,proxy_only_review_needed
+C2016-12,Tracking Period 5,4,1.0153775049583142,proxy_only_review_needed
+C2016-13,Tracking Period 5,4,1.030840979258164,proxy_only_review_needed
+C2016-14,Tracking Period 5,4,1.016741525829557,proxy_only_review_needed
+C2016-15,Tracking Period 4,3,1.052970928166865,proxy_only_review_needed
+C2016-16,Tracking Period 4,3,1.1822851722642091,proxy_only_review_needed
+C2016-17,Tracking Period 4,3,1.1805599290679616,proxy_only_review_needed
+C2016-18,Tracking Period 4,3,1.1900289445819312,proxy_only_review_needed
+C2016-19,Tracking Period 4,3,1.0399271022543164,proxy_only_review_needed
+C2016-20,Tracking Period 4,3,1.033876322088526,proxy_only_review_needed
+C2016-21,Tracking Period 4,3,1.012374273465472,proxy_only_review_needed
+C2016-22,Tracking Period 4,3,1.014980073026971,proxy_only_review_needed
+C2016-23,Tracking Period 4,3,1.0082357623990743,proxy_only_review_needed
+C2016-24,Tracking Period 4,3,1.01748521464419,proxy_only_review_needed
+C2016-25,Tracking Period 4,3,1.0397275450116947,proxy_only_review_needed
+C2016-26,Tracking Period 4,3,1.039645118804124,proxy_only_review_needed
+C2016-27,Tracking Period 4,3,1.0811614397445564,proxy_only_review_needed
+C2016-28,Tracking Period 4,3,1.0297074904082484,proxy_only_review_needed
+C2016-29,Tracking Period 4,3,1.0347391514574993,proxy_only_review_needed
+C2016-30,Tracking Period 4,3,1.0254788010750788,proxy_only_review_needed
+C2016-31,Tracking Period 4,3,1.019505620367492,proxy_only_review_needed
+C2016-32,Tracking Period 4,3,1.0410783001418151,proxy_only_review_needed
+C2016-33,Tracking Period 4,3,1.046508977369713,proxy_only_review_needed
+C2016-34,Tracking Period 3,2,1.0590245974905923,proxy_only_review_needed
+C2016-42,13/03/2018 17:00,15,1.0068588369491824,proxy_only_review_needed
+C2018-08,9/04/2021 17:00,110,1.014830069868135,proxy_only_review_needed
+C2018-10,Week 24,23,1.0000000771083288,proxy_only_review_needed
+C2018-13,26/02/2019 17:00,36,1.4247877758913412,proxy_only_review_needed
+C2019-01,TP10,9,1.0176652985083283,proxy_only_review_needed
+C2019-02,TP10,8,1.018994892622892,proxy_only_review_needed
+C2019-03,TP22,21,1.3130537319786173,proxy_only_review_needed
+C2019-04,TP24,23,0.9799959272508364,proxy_only_review_needed
+C2019-05,TP10,9,1.0139354395604396,proxy_only_review_needed
+C2019-06,TP11,10,1.014589947089947,proxy_only_review_needed
+C2019-07,TP10,9,1.0865116279069766,proxy_only_review_needed
+C2019-08,TP9,8,1.1176983435047951,proxy_only_review_needed
